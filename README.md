@@ -15,7 +15,6 @@ I am a **Master’s graduate in Data Science** from **NJIT** and a **Computer Sc
 ### 📫 How to Reach Me  
 - 📧 Email: bittuyashwanth18@gmail.com  
 - 🔗 LinkedIn: [(https://www.linkedin.com/in/yashwanth-reddy7/)](#)  
-- 🌐 Portfolio: [Your Website/Portfolio Link](#)  
 
 ### 🛠️ Tools and Technologies  
 - **Languages**: Python, R, SQL  
@@ -24,6 +23,3 @@ I am a **Master’s graduate in Data Science** from **NJIT** and a **Computer Sc
 - **Visualization**: Tableau, Power BI  
 - **Version Control**: Git, GitHub  
 
----
-
-Feel free to customize this template to add/remove sections based on your preferences. If you have a portfolio, personal website, or specific skills to highlight, include those links as well. Let me know if you'd like further assistance! 😊
