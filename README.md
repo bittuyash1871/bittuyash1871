@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Yashwanth Reddy</h1>
-<h3 align="center">I'm passionate about exploring data and building machine learning models to solve real-world challenges.</h3>
+# 👋 Hi, I'm Yashwanth Reddy!  
 
-- 📫 How to reach me **bittuyashwanth18@gmail.com**
+### 🌟 About Me  
+I am a **Master’s graduate in Data Science** from **NJIT** and a **Computer Science alumnus** of **Chandigarh University**. Passionate about exploring the power of data, I thrive on uncovering insights, solving real-world problems, and learning new technologies in the ever-evolving data science field.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 💻 What I Do  
+- 🌐 I specialize in **data analysis**, **machine learning**, and **data visualization**.  
+- 🛠️ Skilled in **Python**, **R**, **SQL**, and frameworks like **TensorFlow** and **Scikit-learn**.  
+- 📊 Fascinated by the intersections of **AI**, **big data**, and **analytics**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🎯 Goals  
+- 🌱 I’m continuously learning and improving my skills in **deep learning**, **NLP**, and **cloud-based data solutions**.  
+- 🚀 Aspiring to contribute to innovative projects that make an impact through data-driven decision-making.  
+
+### 📫 How to Reach Me  
+- 📧 Email: bittuyashwanth18@gmail.com  
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/yashwanth-reddy7/)](#)  
+- 🌐 Portfolio: [Your Website/Portfolio Link](#)  
+
+### 🛠️ Tools and Technologies  
+- **Languages**: Python, R, SQL  
+- **Frameworks**: TensorFlow, Keras, Scikit-learn  
+- **Data Tools**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Visualization**: Tableau, Power BI  
+- **Version Control**: Git, GitHub  
+
+---
+
+Feel free to customize this template to add/remove sections based on your preferences. If you have a portfolio, personal website, or specific skills to highlight, include those links as well. Let me know if you'd like further assistance! 😊
